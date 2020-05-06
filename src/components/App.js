@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from 'react';
+import { Router, Route, Switch } from "react-router";
 import 'bootstrap/dist/css/bootstrap.css';
 import Movie from "./Movie";
 import Header from "./Header";
